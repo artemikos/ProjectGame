@@ -1,6 +1,4 @@
-ProjectGame - Unity Roguelike Action Game (Vampire Survivors-like)
-О проекте
-ProjectGame - это динамичный roguelike-экшен в стиле Vampire Survivors, разработанный на Unity (C#). Игра сочетает элементы выживания против волн монстров, систему прокачки через выбор способностей и перманентные улучшения между попытками.
+ProjectGame - Unity Roguelike Action Game (Vampire Survivors-like)  - это динамичный roguelike-экшен в стиле Vampire Survivors, разработанный на Unity (C#). Игра сочетает элементы выживания против волн монстров, систему прокачки через выбор способностей и перманентные улучшения между попытками.
 
 Техническая информация
 Язык: C#
